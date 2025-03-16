@@ -1,4 +1,4 @@
-# ROS 2 Foxy Docker Workspace (RealSense + USB Cam)
+# ROS 2 Foxy Docker Workspace
 
 - **Docker yüklemek için**: [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
